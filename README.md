@@ -31,7 +31,7 @@ Multiplication
 5. Your expected result should be 100.
 
 Previous Calculations
-You can see your previous calculations by pressing 5 in the menu, the results are only visible if you have made actual calculations before.
+* You can see your previous calculations by pressing 5 in the menu, the results are only visible if you have made actual calculations before.
 
 Exiting the program
-You can exit the program by pressing 6 in the menu.
+* You can exit the program by pressing 6 in the menu.
